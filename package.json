@@ -1,0 +1,20 @@
+{
+  "name": "desafioapis",
+  "version": "1.0.0",
+  "description": "Atividade em aula",
+  "main": "desafio.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "Siga as instruções interativas para fornecer as informações solicitadas sobre o seu projeto, como nome, versão, descrição, autor, licença, entre outros.\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
